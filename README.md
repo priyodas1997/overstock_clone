@@ -6,7 +6,6 @@ We are passionate about doing our part to make life better. We provide high-qual
 
 Deployment Link https://radiant-fairy-66db6d.netlify.app/
 
-Medium Blog Link https://medium.com/@owais.athar.8092/overstock-project-collaboration-101a1018b4e1
 
 LinkedIn Post https://www.linkedin.com/posts/md-owais-athar-a16337a2_team-github-project-activity-6929306854267269120-SLvR?utm_source=linkedin_share&utm_medium=member_desktop_web
 
