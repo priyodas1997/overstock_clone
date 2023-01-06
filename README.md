@@ -7,8 +7,6 @@ We are passionate about doing our part to make life better. We provide high-qual
 Deployment Link https://radiant-fairy-66db6d.netlify.app/
 
 
-LinkedIn Post https://www.linkedin.com/posts/md-owais-athar-a16337a2_team-github-project-activity-6929306854267269120-SLvR?utm_source=linkedin_share&utm_medium=member_desktop_web
-
 Homepage
 
 ![homepage](https://user-images.githubusercontent.com/100846987/167412414-ae5bde53-d768-4b19-a244-67ea6109defb.PNG)
