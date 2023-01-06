@@ -29,6 +29,7 @@ Cart Page
 Wishlist 
 
 ![wishlist](https://user-images.githubusercontent.com/100846987/167413782-5cda48d5-df37-4583-96a7-ff2569aaa7ea.PNG)
+![home](https://user-images.githubusercontent.com/101566583/211069322-8773435d-26ab-4b0a-a694-b2600ca99b4c.png)
 
 Payment 
 
